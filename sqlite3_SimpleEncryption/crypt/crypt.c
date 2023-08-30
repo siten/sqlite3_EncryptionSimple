@@ -1,8 +1,8 @@
-#include "crypt.h"
+ï»¿#include "crypt.h"
 
 
 
-//TODO ÕâÀïÊ¹ÓÃ¼òµ¥µÄÒì»ò×ö¼Ó½âÃÜÑİÊ¾»á±©Â¶ÃÜÔ¿
+//TODO è¿™é‡Œä½¿ç”¨ç®€å•çš„å¼‚æˆ–åšåŠ è§£å¯†æ¼”ç¤ºä¼šæš´éœ²å¯†é’¥
 int MyEnFn(void* pData, size_t dataLen, unsigned char* pkey, int nKey)
 {
     if (pData) {

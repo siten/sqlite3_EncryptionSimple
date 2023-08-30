@@ -1,4 +1,4 @@
-#ifndef SQLITE_HAS_CODEC
+﻿#ifndef SQLITE_HAS_CODEC
 #define SQLITE_HAS_CODEC
 #endif
 
